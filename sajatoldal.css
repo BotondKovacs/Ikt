@@ -1,0 +1,21 @@
+#jumbotron {
+ background-color: rgb(38, 198, 247);   
+}
+body {
+    background-color: ghostwhite;
+}
+.ropi {
+    border-radius: 8px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 5px;
+    margin-left: 30px;
+}
+#lablec {
+    background-color: rgb(38, 198, 247);
+}
+#fotorolam {
+    border-radius: 8px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 5px;
+    margin-bottom: 20px;
+}
